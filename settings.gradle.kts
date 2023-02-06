@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Android Interview Questions"
-include ':app'
+include(":app")
